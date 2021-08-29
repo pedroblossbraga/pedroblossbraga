@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings <!-- ❗ -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroblossbraga)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroblossbraga&theme=tokyonight)
 
@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - ☕ I’m looking to collaborate on Mathematics, Machine Learning and Programming in general 
 - 📫 Check out my personal website: https://pedroblossbraga.github.io/
 - 😄 LinkedIn: https://www.linkedin.com/in/pedro-bl%C3%B6%C3%9F-braga-3263a1136/
+-->
 
 Cheers!
--->

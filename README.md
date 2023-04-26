@@ -10,5 +10,6 @@ Usually I work with Python and R.
 <!-- - ☕ I’m looking to collaborate on Mathematics, Machine Learning and Programming in general. -->
 - 🔎 Check out my personal website: https://pedroblossbraga.github.io/
 - 🌎 LinkedIn: https://www.linkedin.com/in/pedro-bloss-braga/
+
 Cheers!
 

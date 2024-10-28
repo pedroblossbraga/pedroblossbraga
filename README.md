@@ -3,7 +3,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroblossbraga&theme=tokyonight) -->
 
-I'm an Applied Mathematician, working with Data Science, AI, DeFi, and more.
+I'm an Applied Mathematician, working with Data Science, AI, Finance, and more.
 <!-- Usually I work with Python and R. -->
 <!-- - 🔭 I’m currently working with Data Science and Machine Learning, with mostly Python and R. -->
 <!-- - 🌱 I’m currently learning functional programming, Rust and Clojure, in the spare time. -->
